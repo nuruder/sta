@@ -1,4 +1,4 @@
 # Summary
 
-* [Введение](README.md)
+* [Краткая справка по Dadata](README.md)
 
